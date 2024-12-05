@@ -5,6 +5,8 @@
         <script>
             function vajutus(){
                 vastus.innerText=valik1.value;
+                let aadress="https://script.google.com/macros/s/AKfycbxjDuRzzIDF8S7j45Jj1oSOjZwm8fuPjPeVBKhMpRmTAScXJviReaXX66ztdj--m1Ss/exec?hinnang="+valik1.value;
+                fetch(aadress).then(d => d.text()).then(function(t){vastus.innerText=t;})
             }
         </script>
     </head>
