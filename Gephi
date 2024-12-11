@@ -1,0 +1,662 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2024-12-11">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="type" title="type" type="string"/>
+      <attribute id="sentiment" title="sentiment" type="string"/>
+      <attribute id="polarity" title="polarity" type="double"/>
+      <attribute id="frequency" title="frequency" type="integer"/>
+    </attributes>
+    <nodes>
+      <node id="1" label="Kindlates kätes. Missa Reformierakonnast">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Positive"/>
+          <attvalue for="polarity" value="0.0840441242784993"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="25744.557" y="25734.176"/>
+        <viz:color r="13" g="21" b="255"/>
+      </node>
+      <node id="2" label="Süsteem">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Positive"/>
+          <attvalue for="polarity" value="0.08061056998557"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-92.07147" y="-356.77335"/>
+        <viz:color r="13" g="21" b="255"/>
+      </node>
+      <node id="3" label="Cosmopolitan">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Positive"/>
+          <attvalue for="polarity" value="0.10094414292175487"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="228.60226" y="-1402.293"/>
+        <viz:color r="13" g="21" b="255"/>
+      </node>
+      <node id="4" label="Sada grammi taevasina">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Positive"/>
+          <attvalue for="polarity" value="0.12341269841269842"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-257.20172" y="-250.88942"/>
+        <viz:color r="13" g="21" b="255"/>
+      </node>
+      <node id="5" label="Side">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Positive"/>
+          <attvalue for="polarity" value="0.10554877221543892"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-171.43661" y="-301.263"/>
+        <viz:color r="13" g="21" b="255"/>
+      </node>
+      <node id="6" label="Tikud">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Positive"/>
+          <attvalue for="polarity" value="0.10361630591630588"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="5.613201" y="-390.05508"/>
+        <viz:color r="13" g="21" b="255"/>
+      </node>
+      <node id="7" label="Abrakadabra">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Neutral"/>
+          <attvalue for="polarity" value="0.04878180846930847"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="315.9997" y="-1246.4814"/>
+        <viz:color r="255" g="227" b="173"/>
+      </node>
+      <node id="8" label="James Brown kandis lokirulle">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Positive"/>
+          <attvalue for="polarity" value="0.06514538589781309"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="430.50507" y="-1575.223"/>
+        <viz:color r="13" g="21" b="255"/>
+      </node>
+      <node id="9" label="Üks helevalge tuvi">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Positive"/>
+          <attvalue for="polarity" value="0.054487529515938604"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-26.035511" y="173.27003"/>
+        <viz:color r="13" g="21" b="255"/>
+      </node>
+      <node id="10" label="Ottabeth">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Positive"/>
+          <attvalue for="polarity" value="0.1329954444780026"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="82.95988" y="-17.126913"/>
+        <viz:color r="13" g="21" b="255"/>
+      </node>
+      <node id="11" label="Eisenstein">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Positive"/>
+          <attvalue for="polarity" value="0.063493015993016"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="96.49633" y="-190.30199"/>
+        <viz:color r="13" g="21" b="255"/>
+      </node>
+      <node id="12" label="Süüde">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Neutral"/>
+          <attvalue for="polarity" value="0.01649499925361994"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="112.7208" y="-98.5188"/>
+        <viz:color r="255" g="227" b="173"/>
+      </node>
+      <node id="13" label="Rahamaa">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Positive"/>
+          <attvalue for="polarity" value="0.08251502883081831"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-283.0954" y="-75.535805"/>
+        <viz:color r="13" g="21" b="255"/>
+      </node>
+      <node id="14" label="Inimese anatoomia">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Neutral"/>
+          <attvalue for="polarity" value="0.020902014652014654"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-121.33104" y="70.20333"/>
+        <viz:color r="255" g="227" b="173"/>
+      </node>
+      <node id="15" label="Bakhandid">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Positive"/>
+          <attvalue for="polarity" value="0.05434905564049209"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-349.8612" y="41.41245"/>
+        <viz:color r="13" g="21" b="255"/>
+      </node>
+      <node id="16" label="Luidrik">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Positive"/>
+          <attvalue for="polarity" value="0.10036841012868408"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-209.06898" y="34.324554"/>
+        <viz:color r="13" g="21" b="255"/>
+      </node>
+      <node id="17" label="Spy Girls">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Positive"/>
+          <attvalue for="polarity" value="0.05618390795556146"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="58.446835" y="-309.1369"/>
+        <viz:color r="13" g="21" b="255"/>
+      </node>
+      <node id="18" label="Konsiilium">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Positive"/>
+          <attvalue for="polarity" value="0.11342729240456512"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="461.24744" y="-1334.8771"/>
+        <viz:color r="13" g="21" b="255"/>
+      </node>
+      <node id="19" label="Tädi Õie 65. sünnipäev">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Negative"/>
+          <attvalue for="polarity" value="-0.012280701754385951"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-294.65997" y="-167.81108"/>
+        <viz:color r="255" g="16" b="42"/>
+      </node>
+      <node id="20" label="Pikk tee koju">
+        <attvalues>
+          <attvalue for="type" value="Lavastus"/>
+          <attvalue for="sentiment" value="Positive"/>
+          <attvalue for="polarity" value="0.1394782706471018"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="13.030459" y="41.702084"/>
+        <viz:color r="13" g="21" b="255"/>
+      </node>
+      <node id="21" label="Jaak Prints">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="25782.914" y="25651.88"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="22" label="Andres Noormets">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="2"/>
+        </attvalues>
+        <viz:size value="12.428572"/>
+        <viz:position x="21.70654" y="-977.65295"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="23" label="Urmas Vadi">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-494.43173" y="-365.93347"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="24" label="Tiit Palu">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-324.09045" y="-508.02023"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="25" label="Johan Elm">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="2"/>
+        </attvalues>
+        <viz:size value="12.428572"/>
+        <viz:position x="212.66325" y="-847.5064"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="26" label="Mart Piirimees">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="443.8323" y="-1752.4241"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="27" label="Mari-Liis Lill">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="123.45246" y="447.33936"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="28" label="Priit Põldma">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-48.8108" y="480.23035"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="29" label="Gerda Kordemets">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="301.4496" y="82.628075"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="30" label="Julia Aug">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="316.17276" y="-287.0023"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="31" label="Renate Keerd">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="352.55316" y="-86.12895"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="32" label="Hendrik Toompere jr">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-546.9247" y="-63.895065"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="33" label="Mart Kangro">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-211.71611" y="326.53848"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="34" label="Elina Masing">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-606.98706" y="205.54762"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="35" label="Liisbeth Horn">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-659.70917" y="131.07176"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="36" label="Taavi Tõnisson">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-323.7027" y="278.88016"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="37" label="Magda Szpecht">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="225.7761" y="-452.47504"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="38" label="Helen Rekkor">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="613.1366" y="-1423.6508"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="39" label="Urmas Lüüs">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-524.5628" y="-247.27411"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="40" label="Tarmo Kruus">
+        <attvalues>
+          <attvalue for="type" value="Lavastaja"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="195.92464" y="227.56369"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="41" label="tragikomöödia">
+        <attvalues>
+          <attvalue for="type" value="Žanr"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="25660.955" y="25771.19"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="42" label="draama">
+        <attvalues>
+          <attvalue for="type" value="Žanr"/>
+          <attvalue for="frequency" value="15"/>
+        </attvalues>
+        <viz:size value="70.0"/>
+        <viz:position x="-91.58762" y="-127.55054"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="43" label="komöödia">
+        <attvalues>
+          <attvalue for="type" value="Žanr"/>
+          <attvalue for="frequency" value="4"/>
+        </attvalues>
+        <viz:size value="21.285713"/>
+        <viz:position x="373.0949" y="-1412.5833"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="44" label="Anneli Saro">
+        <attvalues>
+          <attvalue for="type" value="Autor"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="25799.531" y="25801.797"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="45" label="Madli Pesti">
+        <attvalues>
+          <attvalue for="type" value="Autor"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="166.01387" y="-1566.9589"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="46" label="Ronja Talunik">
+        <attvalues>
+          <attvalue for="type" value="Autor"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-442.6676" y="-432.22723"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="47" label="Pille-Riin Purje">
+        <attvalues>
+          <attvalue for="type" value="Autor"/>
+          <attvalue for="frequency" value="2"/>
+        </attvalues>
+        <viz:size value="12.428572"/>
+        <viz:position x="-184.25905" y="-517.1035"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="48" label="Rasmus Kuningas">
+        <attvalues>
+          <attvalue for="type" value="Autor"/>
+          <attvalue for="frequency" value="2"/>
+        </attvalues>
+        <viz:size value="12.428572"/>
+        <viz:position x="163.16936" y="-927.29846"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="49" label="Karin Allik">
+        <attvalues>
+          <attvalue for="type" value="Autor"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="533.91534" y="-1724.2516"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="50" label="Maris Johannes">
+        <attvalues>
+          <attvalue for="type" value="Autor"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="42.662827" y="496.48056"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="51" label="Hanna Marrandi">
+        <attvalues>
+          <attvalue for="type" value="Autor"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="310.0333" y="163.96103"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="52" label="Kaur Riismaa">
+        <attvalues>
+          <attvalue for="type" value="Autor"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="359.5142" y="-212.00214"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="53" label="Heli Reimann">
+        <attvalues>
+          <attvalue for="type" value="Autor"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="385.5247" y="-11.354634"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="54" label="Aleksander Tsapov">
+        <attvalues>
+          <attvalue for="type" value="Autor"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-530.36536" y="21.819574"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="55" label="Anette Pärn">
+        <attvalues>
+          <attvalue for="type" value="Autor"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-125.849236" y="334.0726"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="56" label="Elo Kaalep">
+        <attvalues>
+          <attvalue for="type" value="Autor"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-562.736" y="291.3471"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="57" label="Christofer Kivipalu">
+        <attvalues>
+          <attvalue for="type" value="Autor"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-392.77957" y="228.60306"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="58" label="Andrei Liimets">
+        <attvalues>
+          <attvalue for="type" value="Autor"/>
+          <attvalue for="frequency" value="2"/>
+        </attvalues>
+        <viz:size value="12.428572"/>
+        <viz:position x="360.96033" y="-877.39264"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="59" label="Pille-Triinu Maiste">
+        <attvalues>
+          <attvalue for="type" value="Autor"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="-584.4689" y="-192.38686"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+      <node id="60" label="Liis Seljamaa">
+        <attvalues>
+          <attvalue for="type" value="Autor"/>
+          <attvalue for="frequency" value="1"/>
+        </attvalues>
+        <viz:size value="8.0"/>
+        <viz:position x="128.99863" y="282.98215"/>
+        <viz:color r="194" g="0" b="139"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="62" source="1" target="21" type="directed"/>
+      <edge id="63" source="2" target="22" type="directed"/>
+      <edge id="64" source="3" target="22" type="directed"/>
+      <edge id="65" source="4" target="23" type="directed"/>
+      <edge id="66" source="5" target="24" type="directed"/>
+      <edge id="67" source="6" target="25" type="directed"/>
+      <edge id="68" source="7" target="25" type="directed"/>
+      <edge id="69" source="8" target="26" type="directed"/>
+      <edge id="70" source="9" target="27" type="directed"/>
+      <edge id="71" source="9" target="28" type="directed"/>
+      <edge id="72" source="10" target="29" type="directed"/>
+      <edge id="73" source="11" target="30" type="directed"/>
+      <edge id="74" source="12" target="31" type="directed"/>
+      <edge id="75" source="13" target="32" type="directed"/>
+      <edge id="76" source="14" target="33" type="directed"/>
+      <edge id="77" source="15" target="34" type="directed"/>
+      <edge id="78" source="15" target="35" type="directed"/>
+      <edge id="79" source="16" target="36" type="directed"/>
+      <edge id="80" source="17" target="37" type="directed"/>
+      <edge id="81" source="18" target="38" type="directed"/>
+      <edge id="82" source="19" target="39" type="directed"/>
+      <edge id="83" source="20" target="40" type="directed"/>
+      <edge id="84" source="1" target="44" type="directed"/>
+      <edge id="85" source="2" target="47" type="directed"/>
+      <edge id="86" source="3" target="45" type="directed"/>
+      <edge id="87" source="4" target="46" type="directed"/>
+      <edge id="88" source="5" target="47" type="directed"/>
+      <edge id="89" source="6" target="48" type="directed"/>
+      <edge id="90" source="7" target="48" type="directed"/>
+      <edge id="91" source="8" target="49" type="directed"/>
+      <edge id="92" source="9" target="50" type="directed"/>
+      <edge id="93" source="10" target="51" type="directed"/>
+      <edge id="94" source="11" target="52" type="directed"/>
+      <edge id="95" source="12" target="53" type="directed"/>
+      <edge id="96" source="13" target="54" type="directed"/>
+      <edge id="97" source="14" target="55" type="directed"/>
+      <edge id="98" source="15" target="56" type="directed"/>
+      <edge id="99" source="16" target="57" type="directed"/>
+      <edge id="100" source="17" target="58" type="directed"/>
+      <edge id="101" source="18" target="58" type="directed"/>
+      <edge id="102" source="19" target="59" type="directed"/>
+      <edge id="103" source="20" target="60" type="directed"/>
+      <edge id="104" source="1" target="41" type="undirected"/>
+      <edge id="105" source="2" target="42" type="undirected" weight="6.0"/>
+      <edge id="106" source="3" target="43" type="undirected" weight="3.0"/>
+      <edge id="107" source="4" target="42" type="undirected" weight="6.0"/>
+      <edge id="108" source="5" target="42" type="undirected" weight="6.0"/>
+      <edge id="109" source="6" target="42" type="undirected" weight="6.0"/>
+      <edge id="110" source="7" target="43" type="undirected" weight="4.0"/>
+      <edge id="111" source="8" target="43" type="undirected" weight="4.0"/>
+      <edge id="112" source="9" target="42" type="undirected" weight="6.0"/>
+      <edge id="113" source="10" target="42" type="undirected" weight="6.0"/>
+      <edge id="114" source="11" target="42" type="undirected" weight="6.0"/>
+      <edge id="115" source="12" target="42" type="undirected" weight="6.0"/>
+      <edge id="116" source="13" target="42" type="undirected" weight="6.0"/>
+      <edge id="117" source="14" target="42" type="undirected" weight="6.0"/>
+      <edge id="118" source="15" target="42" type="undirected" weight="6.0"/>
+      <edge id="119" source="16" target="42" type="undirected" weight="6.0"/>
+      <edge id="120" source="17" target="42" type="undirected" weight="6.0"/>
+      <edge id="121" source="18" target="43" type="undirected" weight="4.0"/>
+      <edge id="122" source="19" target="42" type="undirected" weight="6.0"/>
+      <edge id="123" source="20" target="42" type="undirected" weight="6.0"/>
+    </edges>
+  </graph>
+</gexf>
